@@ -5,6 +5,8 @@ Hydro Buddy is a modern hydration reminder and water tracking web application bu
 It helps users develop healthy hydration habits by tracking daily water intake, monitoring progress, viewing weekly analytics, and earning achievements.
 
 ---
+DEMO LINK:
+https://hydro-buddy-8cebdbh4rekikepfran59c.streamlit.app/
 
 ## ✨ Features
 
